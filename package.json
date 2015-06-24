@@ -5,6 +5,8 @@
   "main": "./index.js",
   "scripts": {},
   "repository": {
+    "type": "git",
+    "url": "Volox/node-simple-logger"
   },
   "author": "Volox <voloxxx@gmail.com>",
   "license": "MIT",
